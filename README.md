@@ -1,4 +1,4 @@
-  # 🐍 Game Snake
+# 🐍 Game Snake
 
 In this game you are an snake and you have to try to eat as much appels as you can but don't hit yourself or hit the wall.
 
